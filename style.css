@@ -338,22 +338,22 @@ main > h2 {
 
 .img-elem-2 {
   height: 70vh;
-  width: 50vw;
+  width: 50rem;
   background: url(images/illustration-phones.svg) center center no-repeat;
   position: absolute;
-  top: 1468px;
-  left: 10px;
+  top: 94rem;
+  left: 0.625rem;
   z-index: 3;
 }
 
 .img-elem-2-2 {
   height: 60vh;
-  width: 50vw;
+  width: 50rem;
   background: url(images/bg-pattern-circles.svg) center center no-repeat;
   clip-path: polygon(0% 46%, 100% 46%, 100% 100%, 0% 100%);
   position: absolute;
-  top: 1345px;
-  left: -100px;
+  top: 87.1rem;
+  left: -6.25rem;
 }
 
 .elem-2-1 > h3 {
@@ -397,7 +397,7 @@ main > h2 {
   font-size: 1.8rem;
   font-weight: 500;
   margin-bottom: 1.5rem;
-  margin-top: 8rem;
+  margin-top: 6rem;
 }
 
 .elem-3-1 > p {
@@ -437,6 +437,7 @@ footer > ul > li {
   background: var(--veryDarkBlackBlue);
   text-align: center;
   padding-top: 2rem;
+  padding-bottom: 1rem;
 }
 
 .attribution > p {
